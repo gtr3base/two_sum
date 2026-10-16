@@ -28,4 +28,4 @@ Input:  nums = [2, 7, 11, 15], target = 18
 Output: [2, 1]
 ```
 
-## 🤓 ![Explanation](assets/explanation.jpeg)
+## 🤓Explanation is in src/main/java/com/gtr3base/tsum ![Explanation](assets/explanation.jpeg)
